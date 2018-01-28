@@ -10,3 +10,7 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
 
 print("Hello")
+
+print("Hello")
+print("Hello")
+print("Hello")
